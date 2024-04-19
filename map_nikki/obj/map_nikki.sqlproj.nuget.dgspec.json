@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\AndroidStudioProjects\\mydailymap_nanigadokode\\map_nikki\\map_nikki.sqlproj": {}
+  },
+  "projects": {
+    "d:\\AndroidStudioProjects\\mydailymap_nanigadokode\\map_nikki\\map_nikki.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\AndroidStudioProjects\\mydailymap_nanigadokode\\map_nikki\\map_nikki.sqlproj",
+        "projectName": "map_nikki",
+        "projectPath": "d:\\AndroidStudioProjects\\mydailymap_nanigadokode\\map_nikki\\map_nikki.sqlproj",
+        "packagesPath": "C:\\Users\\naoya\\.nuget\\packages\\",
+        "outputPath": "d:\\AndroidStudioProjects\\mydailymap_nanigadokode\\map_nikki\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\naoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

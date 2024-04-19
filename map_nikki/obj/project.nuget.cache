@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NpWrClVkfsWzQnXUNJBYbNRYMI3l04X+nEdodK1FpCeJXwXmLCwd3w8moMffWH7JEgQ9A7TLBp1lR9QqxUgf3w==",
+  "success": true,
+  "projectFilePath": "d:\\AndroidStudioProjects\\mydailymap_nanigadokode\\map_nikki\\map_nikki.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naoya\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\naoya\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

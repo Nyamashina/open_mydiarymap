@@ -1,0 +1,10 @@
+d:\AndroidStudioProjects\mydailymap_nanigadokode\map_nikki\bin\Debug\map_nikki.dacpac
+d:\AndroidStudioProjects\mydailymap_nanigadokode\map_nikki\bin\Debug\map_nikki.dll
+d:\AndroidStudioProjects\mydailymap_nanigadokode\map_nikki\bin\Debug\map_nikki.pdb
+d:\AndroidStudioProjects\mydailymap_nanigadokode\map_nikki\obj\Debug\map_nikki.sqlproj.AssemblyReference.cache
+d:\AndroidStudioProjects\mydailymap_nanigadokode\map_nikki\obj\Debug\Model.xml
+d:\AndroidStudioProjects\mydailymap_nanigadokode\map_nikki\obj\Debug\refactor.xml
+d:\AndroidStudioProjects\mydailymap_nanigadokode\map_nikki\obj\Debug\postdeploy.sql
+d:\AndroidStudioProjects\mydailymap_nanigadokode\map_nikki\obj\Debug\predeploy.sql
+d:\AndroidStudioProjects\mydailymap_nanigadokode\map_nikki\obj\Debug\map_nikki.dll
+d:\AndroidStudioProjects\mydailymap_nanigadokode\map_nikki\obj\Debug\map_nikki.pdb
